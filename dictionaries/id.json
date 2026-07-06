@@ -1,0 +1,86 @@
+{
+  "navbar": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "projects": "Proyek"
+  },
+  "hero": {
+    "greeting": "Halo, Saya",
+    "role": "Fullstack Developer",
+    "tagline": "Membangun aplikasi web yang inovatif, responsif, dan user-friendly melalui proses perancangan frontend yang presisi serta pengembangan backend yang tangguh.",
+    "ctaProjects": "Lihat Proyek",
+    "ctaContact": "Hubungi Saya"
+  },
+  "about": {
+    "sectionTitle": "ABOUT ME",
+    "greeting": "SAYA",
+    "name": "Fikri Rahmansyah",
+    "role": "Fullstack Developer",
+    "bio": "Sebagai lulusan Sistem Informasi dengan keahlian Fullstack Development, saya berdedikasi menjembatani kompleksitas proses bisnis dengan solusi teknologi yang efisien. Mulai dari merancang interaksi pengguna di sisi frontend hingga membangun arsitektur data di sisi backend, saya menikmati setiap proses merangkai kode dari nol menjadi aplikasi scalable yang memberikan nilai nyata bagi perusahaan.",
+    "downloadCv": "UNDUH CV"
+  },
+  "skills": {
+    "title": "Keahlian",
+    "accent": "Teknis"
+  },
+  "experience": {
+  "title": "Pengalaman",
+  "accent": "Kerja",
+  "technologiesLabel": "Teknologi yang Digunakan",
+  "list": [
+    {
+      "company": "PT Surya Teknologi Utama",
+      "role": "Frontend Developer",
+      "period": "Mar 2026 - Jun 2026",
+      "location": "Jakarta, Indonesia",
+      "description": [
+        "Meningkatkan performa loading halaman utama web portfolio dan aplikasi e-commerce hingga 40% menggunakan teknik Server-Side Rendering (SSR) di Next.js.",
+        "Mengembangkan lebih dari 15 komponen UI yang reusable menggunakan Tailwind CSS demi mempercepat efisiensi waktu development tim sebesar 25%.",
+        "Mengintegrasikan RESTful API pihak ketiga untuk sistem manajemen pembayaran yang aman, enkriptif, dan real-time.",
+        "Memastikan aplikasi berjalan responsif di semua perangkat (mobile, tablet, dan desktop) dengan standar SEO yang optimal untuk mesin pencari."
+      ],
+      "technologies": ["NextJS", "ReactJS", "TypeScript", "Tailwind CSS", "REST API"]
+    },
+    {
+      "company": "Project-Based / Kontrak Klien",
+      "role": "Fullstack Web Developer (Freelance)",
+      "period": "Jan 2024 - Jul 2025",
+      "location": "Remote, Indonesia",
+      "description": [
+        "Merancang dan meluncurkan sistem manajemen inventaris (Point of Sales) kustom untuk klien UMKM yang berhasil mengurangi selisih pencatatan barang hingga 95%.",
+        "Membangun arsitektur database yang aman dan optimal menggunakan PostgreSQL untuk menangani ratusan transaksi harian tanpa downtime.",
+        "Menerapkan sistem autentikasi berlapis (JWT & OAuth) untuk melindungi data sensitif pengguna dan hak akses dasbor kontrol admin.",
+        "Menyebarkan (deploy) seluruh aplikasi ke layanan cloud serta mengonfigurasi otomatisasi CI/CD untuk efisiensi pembaruan fitur."
+      ],
+      "technologies": ["Laravel", "MySQL", "PostgreSQL", "Bootstrap", "Git"]
+    }
+  ]
+},
+  "certificates": {
+    "title": "Sertifikat &",
+    "accent": "Penghargaan"
+  },
+  "projects": {
+    "title": "Karya",
+    "accent": "Terbaik",
+    "subtitle": "Kumpulan proyek yang telah saya bangun, mulai dari desain antarmuka hingga sistem backend yang kompleks.",
+    "drawer": {
+      "close": "Tutup",
+      "techStack": "Teknologi yang Digunakan",
+      "viewLive": "Lihat Proyek Asli",
+      "sourceCode": "Kode Sumber"
+    }
+  },
+  "contact": {
+    "title": "Hubungi",
+    "accent": "Saya",
+    "subtitle": "Punya ide proyek, pertanyaan, atau sekadar ingin menyapa? Jangan ragu untuk mengirimkan pesan. Saya selalu terbuka untuk peluang kolaborasi baru.",
+    "name": "Nama Lengkap",
+    "namePlaceholder": "Masukkan nama Anda",
+    "email": "Alamat Email",
+    "emailPlaceholder": "nama@email.com",
+    "message": "Pesan",
+    "messagePlaceholder": "Ceritakan tentang proyek atau ide Anda...",
+    "send": "Kirim Pesan"
+  }
+}
