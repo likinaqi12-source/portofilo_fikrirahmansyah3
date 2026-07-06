@@ -81,7 +81,7 @@ export default function Navbar({ locale }: NavbarProps) {
           onClick={() => handleNavLinkClick("home")}
           className="font-black text-lg md:text-xl tracking-tighter px-2 text-brand-text hover:scale-105 transition-transform"
         >
-          Fikri rahmansyah<span className="text-brand-pink">.</span>
+          FRS<span className="text-brand-pink">.</span>
         </a>
 
         <div className="h-5 md:h-6 w-[1px] bg-brand-text/10 mx-1" />
