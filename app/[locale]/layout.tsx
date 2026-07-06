@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     siteName: "Fikri rahmansyah",
     images: [
       {
-        url: "/images/kai 2  (2).jpg",
+        url: "/images/IMG_4558.JPG (1).jpeg",
         width: 1200,
         height: 630,
         alt: "Fikri rahmansyah Portfolio Thumbnail",
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Fikri rahmansyah | Fullstack Developer",
     description: "Portofolio interaktif dan modern dari seorang Fullstack Developer.",
-    images: ["/images/kai 2  (2).jpg"],
+    images: ["/images/IMG_4558.JPG (1).jpeg"],
   },
 };
 
