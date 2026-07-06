@@ -102,7 +102,7 @@ export default function Hero({ dict }: HeroProps) {
             >
               {/* PERBAIKAN 1: Hapus 'opacity-80' dan 'mix-blend-overlay' agar foto tampil 100% natural */}
               <img 
-                src="images/IMG_4558.JPG (1).jpeg.jpg" 
+                src="images/IMG_4558.JPG (1).jpeg" 
                 alt="Fikri Rahmansyah" 
                 className="w-full h-full object-cover" 
               />
