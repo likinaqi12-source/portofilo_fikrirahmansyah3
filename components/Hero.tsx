@@ -119,7 +119,7 @@ export default function Hero({ dict }: HeroProps) {
               <div className="absolute bottom-6 left-6 right-6 flex items-center justify-between text-white p-4 bg-white/10 rounded-full shadow-lg backdrop-blur-md border border-white/10">
                 <div className="flex items-center gap-3">
                   <img 
-                    src="/images/kai 2 (2).jpg" 
+                    src="/images/kai 2  (2).jpg" 
                     alt="Foto Profil sfikrirahman" 
                     className="w-10 h-10 rounded-full border border-white/20 object-cover"
                   />
